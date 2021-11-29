@@ -30,8 +30,9 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Энэхүү сайтыг https://1234.mn/course/109 хичээлээр бүтээв{' '}
-          <code className={styles.code}>pages/index.js</code>
+        Энэхүү сайтыг
+          <code className={styles.code}>https://1234.mn/course/109</code>{" "}
+          хичээлээр бүтээв
         </p>
 
         <div className={styles.grid}>
